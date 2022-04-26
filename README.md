@@ -16,7 +16,7 @@
 
 ## Live Demo 🔗
 
-Check out the live demo [here](https://mavericks-db.github.io/awesome-books-ES6/)👈
+Live demo will be updated after the first merge.
 
 ## Getting Started
 
